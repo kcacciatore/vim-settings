@@ -53,4 +53,3 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 let g:syntastic_puppet_checkers= ['puppet-lint']
 let g:syntastic_java_javac_config_file_enabled = 1
-
